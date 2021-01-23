@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SwithTheme</string>
+
+    <string name="Setting">Setting</string>
+    <string name="Dark">Dark Mode</string>
+    <string name="Launch">Launch second activity</string>
+    <string name="Second_Activity">Welcome to activity 2</string>
+    <string name="Text1">Welcome to DarkMode</string>
+    <string name="Text2">Have a look of this application designed\n for you the dark mode on one click by you</string>
+</resources>
